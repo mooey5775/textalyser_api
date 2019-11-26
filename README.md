@@ -1,7 +1,7 @@
 Python Textalyser
 =================
 
-Analyzes features in text using a call to [Textalyzer](http://textalyser.net/). Uses `requests` and `BeautifulSoup4`. Requires Python >3.6.
+Analyzes features in text using a call to [Textalyser](http://textalyser.net/). Uses `requests` and `BeautifulSoup4`. Requires Python >3.6.
 
 This package is not official and uses some specific wording to extract information from the response from textalyser.net, so some functionality may break in the future if textalyser.net is updated.
 
